@@ -2,45 +2,36 @@
 
 ![](assets/my-caricature.png)
 
+Tech Educator & Strategist | Code, Neuromarketing, and Human-Centered Systems
 
-👾 My mission is to empower you to achieve your dreams!
+I am a tech educator and strategist driven by a deep passion for computing and a clear mission: empowering people to turn knowledge into real-world impact.
 
-♟️ Tech Educator & Strategist. Blending Code, Neuromarketing & Political Science to build globally.
+My work lives at the intersection of software engineering, human behavior, and strategic thinking, bridging technical precision with how people decide, learn, and act.
 
-I am a multifaceted tech instructor and strategist with a deep passion for computing and a mission to empower others to achieve their dreams. My work bridges the gap between technical precision and human behavior.
+Based in Volta Redonda, Rio de Janeiro, I bring a multidisciplinary background spanning education, sales, marketing, real estate, and technology—allowing me to translate complex ideas into practical, actionable insights for individuals and teams.
 
-Based in Volta Redonda, Rio de Janeiro, I draw on a diverse career spanning education, sales, marketing, and technical fields to help individuals and teams thrive.
+### What drives my work:
 
-#### 🚀 What drives me:
+Code Efficiency & Clarity – Breaking down complex programming concepts, from Java performance nuances to algorithmic thinking.
 
-► **Code Efficiency:** Breaking down complex concepts like optimal Java loop counters or Python Caesar Ciphers. 
+Neuromarketing & Influence – Applying real-world sales and behavioral insights to understand persuasion, decision-making, and user behavior.
 
-► **Neuromarketing:** Leveraging my background in Sales & Real Estate to understand influence. 
+Global & Systems Thinking – Exploring political science, ideologies, justice systems, and how large-scale structures shape society and technology.
 
-► **Global Analysis:** Exploring political science, ideologies, and justice systems.
+I communicate and create content focused on:
 
-#### 🗣️ On X, I share insights on:
+Developer best practices and educational frameworks
 
-• Developer best practices & coding tutorials. 
+Strategic thinking for creators and builders
 
-• Libertarian principles & political analysis.
+The relationship between technology, power, and human systems
 
- • Creator growth strategies—stressing consistency and authentic connections.
+Fluent in Portuguese and professional English, with elementary French.
 
-Fluent in English (Professional) and Portuguese (Native), with intermediate Spanish, and elementary French. I am eager to collaborate on projects that intersect technology, marketing, and societal impact.
+I’m always open to meaningful collaborations at the crossroads of technology, education, marketing, and societal impact.
 
-Let's connect and build something extraordinary!
+Let’s connect and build something that actually matters.
 
-#### 📡 X Profile
-[@profleandrojr](https://x.com/profleandrojr)
-
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/profleandrojr)
-
-### 🛠️ Stack
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ####  Motto
 
